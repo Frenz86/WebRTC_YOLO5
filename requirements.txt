@@ -9,3 +9,8 @@ opencv-contrib-python-headless
 requests
 pillow
 av
+PyYAML
+requests
+scipy
+tqdm
+seaborn
