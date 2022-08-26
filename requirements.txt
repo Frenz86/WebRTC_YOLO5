@@ -1,9 +1,9 @@
+-f https://download.pytorch.org/whl/torch_stable.html
 streamlit
 streamlit_webrtc
-torch
-torchvision
+torch==1.8.1+cpu 
+torchvision==0.9.1+cpu
 opencv-contrib-python-headless
 requests
 pillow
 av
-
